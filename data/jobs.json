@@ -1,0 +1,33 @@
+[
+  {
+    "id": "JOB-1001",
+    "jobTitle": "Frontend Developer",
+    "department": "IT / Engineering",
+    "experience": "2 - 4 Years",
+    "employmentType": "Full-time",
+    "location": "Bangalore",
+    "workMode": "Hybrid",
+    "salaryRange": "₹4 LPA - ₹8 LPA",
+    "openings": 3,
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field",
+      "Strong understanding of web technologies"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ],
+    "responsibilities": [
+      "Build responsive web pages",
+      "Integrate frontend with backend APIs",
+      "Maintain code quality and performance"
+    ],
+    "generatedDescription": "We are looking for a Frontend Developer with 2 - 4 Years of experience to build responsive, user-friendly web applications. The candidate should be strong in HTML, CSS, JavaScript, React and should work closely with design and backend teams.",
+    "status": "Published",
+    "createdBy": "USR-1001",
+    "createdAt": "2026-07-01T09:30:00+05:30",
+    "updatedAt": "2026-07-01T09:30:00+05:30"
+  }
+]

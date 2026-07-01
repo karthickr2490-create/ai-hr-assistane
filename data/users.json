@@ -1,0 +1,11 @@
+[
+  {
+    "id": "USR-1001",
+    "fullName": "HR Manager",
+    "email": "admin@aihr.local",
+    "role": "Admin",
+    "status": "Active",
+    "createdAt": "2026-07-01T09:00:00+05:30",
+    "passwordHash": "$2a$10$ChEC8SP4/rm6WuYfj3AG5.iUIil/DB3WxIrqBs4feMC4U/Hcjf.HC"
+  }
+]

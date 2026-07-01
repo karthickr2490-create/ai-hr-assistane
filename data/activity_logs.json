@@ -1,0 +1,10 @@
+[
+  {
+    "id": "LOG-1782916102873-5556",
+    "action": "LOGIN",
+    "details": {
+      "email": "admin@aihr.local"
+    },
+    "createdAt": "2026-07-01T14:28:22.873Z"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "companyName": "AI HR Assistant",
+  "allowedResumeTypes": ["pdf", "doc", "docx"],
+  "maxResumeSizeMb": 10,
+  "atsWeights": {
+    "skills": 50,
+    "experience": 25,
+    "education": 15,
+    "projects": 10
+  },
+  "scoreRules": {
+    "strongMatch": 80,
+    "goodMatch": 65,
+    "averageMatch": 50
+  }
+}
